@@ -1,0 +1,5 @@
+rootProject.name = 'Proiect1PPD'
+include 'Server'
+include 'Client'
+include 'Common'
+

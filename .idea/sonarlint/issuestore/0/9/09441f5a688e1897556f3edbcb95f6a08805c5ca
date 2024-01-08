@@ -1,0 +1,24 @@
+
+g	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(¼ÿ¾¹ÿÿÿÿÿ8ÁÖ™øÍ1
+z	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(ºŠŸÝþÿÿÿÿ8ÂÖ™øÍ1
+]	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ù‘ãÙ8Ä×™øÍ1
+o
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(“–ýþ8Æ×™øÍ1
+€
+java:S2142d"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(è®ã¶øÿÿÿÿ8Ç×™øÍ1
+X	java:S125-"<This block of commented-out lines of code should be removed.(üÁ¼ù8Ç×™øÍ1
+X	java:S1255"<This block of commented-out lines of code should be removed.(äûÉ8È×™øÍ1
+]	java:S125E"<This block of commented-out lines of code should be removed.(Þ†‚›üÿÿÿÿ8É×™øÍ1
+]	java:S125G"<This block of commented-out lines of code should be removed.(÷¡¿üÿÿÿÿ8É×™øÍ1
+]	java:S125N"<This block of commented-out lines of code should be removed.(®áü‡ûÿÿÿÿ8É×™øÍ1
+X	java:S125U"<This block of commented-out lines of code should be removed.(ŽŠ¦ç8É×™øÍ1
+]	java:S125Z"<This block of commented-out lines of code should be removed.(žäù¥üÿÿÿÿ8Ê×™øÍ1
+]	java:S125_"<This block of commented-out lines of code should be removed.(Ã±©Üûÿÿÿÿ8Ê×™øÍ1
+X	java:S125c"<This block of commented-out lines of code should be removed.(ý“ÏÑ8Ê×™øÍ1
+G
+java:S1068"*Remove this unused "nrTari" private field.(Ûš÷–8Ë×™øÍ1
+R
+java:S1068	"0Remove this unused "nrConcurenti" private field.(½“‚’þÿÿÿÿ8Ë×™øÍ1
+P
+java:S1068
+".Remove this unused "nrProbleme" private field.(¢¨Ðªùÿÿÿÿ8Ë×™øÍ1
